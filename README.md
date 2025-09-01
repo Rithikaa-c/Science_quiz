@@ -35,5 +35,5 @@ Test your knowledge, challenge your friends, and learn science in a fun and enga
 
  🖼️ Preview
 
-👉 Live Demo (after deployment):
+👉 Live Demo :
 https://rithikaa-c.github.io/Science_quiz/
