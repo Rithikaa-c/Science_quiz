@@ -24,7 +24,9 @@ Test your knowledge, challenge your friends, and learn science in a fun and enga
 
 
 📂 Project Structure
+
 📦 science-quiz
+
  ┣ 📜 index.html       → Main quiz page  
  ┣ 📜 style.css        → Styling and animations  
  ┣ 📜 script.js        → Quiz logic & interactivity  
